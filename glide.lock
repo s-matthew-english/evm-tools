@@ -17,8 +17,6 @@ imports:
   - crypto/sha3
   - ethdb
   - event
-  - logger
-  - logger/glog
   - metrics
   - params
   - pow
